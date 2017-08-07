@@ -1,9 +1,12 @@
 export CLOUDFLARE_ZONE = b4d27d8decb687eb19b99c74c15ff7b9
 
+generate:
+	vangen
+
 deploy: push-gcs cdn
 
 push-gcs:
-	gsutil -m cp -a public-read -r source/* gs://4d63.com
+	gsutil -m cp -a public-read -r vangen/* gs://4d63.com
 	gsutil web set -m index.html -e 404.txt gs://4d63.com
 
 cdn:
@@ -12,3 +15,6 @@ cdn:
 		-H "X-Auth-Key: $(CLOUDFLARE_CLIENT_API_KEY)" \
 		-H "Content-Type: application/json" \
 		--data '{"purge_everything":true}'
+
+setup:
+	go get -u 4d63.com/vangen

@@ -1,0 +1,24 @@
+{
+  "domain": "4d63.com",
+  "packages": [
+    {
+      "name": "vangen",
+      "vcs": "git",
+      "repo": "https://github.com/leighmcculloch/vangen",
+      "homeURL": "https://github.com/leighmcculloch/vangen",
+      "dirURL": "https://github.com/leighmcculloch/vangen/tree/master{/dir}",
+      "fileURL": "https://github.com/leighmcculloch/vangen/blob/master{/dir}/{file}#L{line}"
+    },
+    {
+      "name": "optional",
+      "vcs": "git",
+      "repo": "https://github.com/leighmcculloch/go-optional",
+      "homeURL": "https://github.com/leighmcculloch/go-optional",
+      "dirURL": "https://github.com/leighmcculloch/go-optional/tree/master{/dir}",
+      "fileURL": "https://github.com/leighmcculloch/go-optional/blob/master{/dir}/{file}#L{line}",
+      "subpackages": [
+        "template"
+      ]
+    }
+  ]
+}
