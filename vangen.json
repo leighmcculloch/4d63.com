@@ -3,26 +3,14 @@
   "repositories": [
     {
       "prefix": "vangen",
-      "type": "git",
-      "url": "https://github.com/leighmcculloch/vangen",
-      "source": {
-        "home": "https://github.com/leighmcculloch/vangen",
-        "dir": "https://github.com/leighmcculloch/vangen/tree/master{/dir}",
-        "file": "https://github.com/leighmcculloch/vangen/blob/master{/dir}/{file}#L{line}"
-      }
+      "url": "https://github.com/leighmcculloch/vangen"
     },
     {
       "prefix": "optional",
       "subs": [
         "template"
       ],
-      "type": "git",
-      "url": "https://github.com/leighmcculloch/go-optional",
-      "source": {
-        "home": "https://github.com/leighmcculloch/go-optional",
-        "dir": "https://github.com/leighmcculloch/go-optional/tree/master{/dir}",
-        "file": "https://github.com/leighmcculloch/go-optional/blob/master{/dir}/{file}#L{line}"
-      }
+      "url": "https://github.com/leighmcculloch/go-optional"
     }
   ]
 }
