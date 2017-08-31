@@ -11,6 +11,19 @@
         "template"
       ],
       "url": "https://github.com/leighmcculloch/go-optional"
+    },
+    {
+      "prefix": "randstr",
+      "subs": [
+        "cmd/randstr",
+        "lib/charset",
+        "lib/randstr",
+        "lib/runes"
+      ],
+      "url": "https://github.com/leighmcculloch/randstr",
+      "website": {
+        "url": "https://github.com/leighmcculloch/randstr"
+      }
     }
   ]
 }
