@@ -3,7 +3,10 @@
   "repositories": [
     {
       "prefix": "vangen",
-      "url": "https://github.com/leighmcculloch/vangen"
+      "url": "https://github.com/leighmcculloch/vangen",
+      "website": {
+        "url": "https://github.com/leighmcculloch/vangen"
+      }
     },
     {
       "prefix": "optional",
