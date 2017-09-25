@@ -46,6 +46,16 @@
       "website": {
         "url": "https://github.com/leighmcculloch/sshcrypt"
       }
+    },
+    {
+      "prefix": "uuid",
+      "subs": [
+        "timeuuid"
+      ],
+      "url": "https://github.com/leighmcculloch/go-uuid",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-uuid"
+      }
     }
   ]
 }
