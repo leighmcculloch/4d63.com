@@ -27,6 +27,25 @@
       "website": {
         "url": "https://github.com/leighmcculloch/randstr"
       }
+    },
+    {
+      "prefix": "sshcrypt",
+      "subs": [
+        "cmd/sshcrypt",
+        "cmd/sshcrypt-agent-decrypt",
+        "cmd/sshcrypt-agent-encrypt",
+        "cmd/sshcrypt-agent-sign",
+        "cmd/sshcrypt-decrypt",
+        "cmd/sshcrypt-encrypt",
+        "cmd/sshcrypt-verify",
+        "lib/sshcryptactions",
+        "lib/sshcryptagent",
+        "lib/sshcryptdata"
+      ],
+      "url": "https://github.com/leighmcculloch/sshcrypt",
+      "website": {
+        "url": "https://github.com/leighmcculloch/sshcrypt"
+      }
     }
   ]
 }
