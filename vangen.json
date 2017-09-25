@@ -84,6 +84,13 @@
       "website": {
         "url": "https://github.com/leighmcculloch/go-static"
       }
+    },
+    {
+      "prefix": "homedir",
+      "url": "https://github.com/leighmcculloch/go-homedir",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-homedir"
+      }
     }
   ]
 }
