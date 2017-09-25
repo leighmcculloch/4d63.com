@@ -56,6 +56,27 @@
       "website": {
         "url": "https://github.com/leighmcculloch/go-uuid"
       }
+    },
+    {
+      "prefix": "iszero",
+      "url": "https://github.com/leighmcculloch/go-iszero",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-iszero"
+      }
+    },
+    {
+      "prefix": "structtags",
+      "url": "https://github.com/leighmcculloch/go-structtags",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-structtags"
+      }
+    },
+    {
+      "prefix": "structmap",
+      "url": "https://github.com/leighmcculloch/go-structmap",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-structmap"
+      }
     }
   ]
 }
