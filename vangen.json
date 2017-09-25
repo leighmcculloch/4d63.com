@@ -77,6 +77,13 @@
       "website": {
         "url": "https://github.com/leighmcculloch/go-structmap"
       }
+    },
+    {
+      "prefix": "static",
+      "url": "https://github.com/leighmcculloch/go-static",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-static"
+      }
     }
   ]
 }
