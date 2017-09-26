@@ -1,7 +1,10 @@
 export CLOUDFLARE_ZONE = b4d27d8decb687eb19b99c74c15ff7b9
 
-generate:
+generate: clean
 	vangen
+
+clean:
+	rm -fR vangen/
 
 deploy: push-gcs cdn
 
