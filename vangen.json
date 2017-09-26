@@ -91,6 +91,20 @@
       "website": {
         "url": "https://github.com/leighmcculloch/go-homedir"
       }
+    },
+    {
+      "prefix": "makedesc",
+      "url": "https://github.com/leighmcculloch/makedesc",
+      "website": {
+        "url": "https://github.com/leighmcculloch/makedesc"
+      }
+    },
+    {
+      "prefix": "makefile",
+      "url": "https://github.com/leighmcculloch/go-makefile",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-makefile"
+      }
     }
   ]
 }
