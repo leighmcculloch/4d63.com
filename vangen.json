@@ -1,5 +1,6 @@
 {
   "domain": "4d63.com",
+  "index": true,
   "repositories": [
     {
       "prefix": "vangen",
