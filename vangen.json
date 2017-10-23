@@ -106,6 +106,13 @@
       "website": {
         "url": "https://github.com/leighmcculloch/go-makefile"
       }
+    },
+    {
+      "prefix": "strrev",
+      "url": "https://github.com/leighmcculloch/go-strrev",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-strrev"
+      }
     }
   ]
 }
