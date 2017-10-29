@@ -1,6 +1,6 @@
 # 4d63.com
 
-A vanity URL for go packages by [Leigh McCulloch](https://leighmcculloch.com).
+A vanity import path for go packages by [Leigh McCulloch](https://leighmcculloch.com).
 
 ## Hosting
 
