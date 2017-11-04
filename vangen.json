@@ -51,7 +51,7 @@
     {
       "prefix": "uuid",
       "subs": [
-        "timeuuid"
+        "uuidv1"
       ],
       "url": "https://github.com/leighmcculloch/go-uuid",
       "website": {
