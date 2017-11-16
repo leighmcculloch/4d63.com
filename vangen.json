@@ -113,6 +113,18 @@
       "website": {
         "url": "https://github.com/leighmcculloch/go-strrev"
       }
+    },
+    {
+      "prefix": "embedfiles",
+      "url": "https://github.com/leighmcculloch/embedfiles"
+    },
+    {
+      "prefix": "licenses",
+      "url": "https://github.com/leighmcculloch/go-licenses"
+    },
+    {
+      "prefix": "license",
+      "url": "https://github.com/leighmcculloch/license"
     }
   ]
 }
