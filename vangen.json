@@ -53,45 +53,27 @@
       "subs": [
         "uuidv1"
       ],
-      "url": "https://github.com/leighmcculloch/go-uuid",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-uuid"
-      }
+      "url": "https://github.com/leighmcculloch/go-uuid"
     },
     {
       "prefix": "iszero",
-      "url": "https://github.com/leighmcculloch/go-iszero",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-iszero"
-      }
+      "url": "https://github.com/leighmcculloch/go-iszero"
     },
     {
       "prefix": "structtags",
-      "url": "https://github.com/leighmcculloch/go-structtags",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-structtags"
-      }
+      "url": "https://github.com/leighmcculloch/go-structtags"
     },
     {
       "prefix": "structmap",
-      "url": "https://github.com/leighmcculloch/go-structmap",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-structmap"
-      }
+      "url": "https://github.com/leighmcculloch/go-structmap"
     },
     {
       "prefix": "static",
-      "url": "https://github.com/leighmcculloch/go-static",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-static"
-      }
+      "url": "https://github.com/leighmcculloch/go-static"
     },
     {
       "prefix": "homedir",
-      "url": "https://github.com/leighmcculloch/go-homedir",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-homedir"
-      }
+      "url": "https://github.com/leighmcculloch/go-homedir"
     },
     {
       "prefix": "makedesc",
@@ -102,21 +84,18 @@
     },
     {
       "prefix": "makefile",
-      "url": "https://github.com/leighmcculloch/go-makefile",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-makefile"
-      }
+      "url": "https://github.com/leighmcculloch/go-makefile"
     },
     {
       "prefix": "strrev",
-      "url": "https://github.com/leighmcculloch/go-strrev",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-strrev"
-      }
+      "url": "https://github.com/leighmcculloch/go-strrev"
     },
     {
       "prefix": "embedfiles",
-      "url": "https://github.com/leighmcculloch/embedfiles"
+      "url": "https://github.com/leighmcculloch/embedfiles",
+      "website": {
+        "url": "https://github.com/leighmcculloch/embedfiles"
+      }
     },
     {
       "prefix": "licenses",
@@ -124,7 +103,10 @@
     },
     {
       "prefix": "license",
-      "url": "https://github.com/leighmcculloch/license"
+      "url": "https://github.com/leighmcculloch/license",
+      "website": {
+        "url": "https://github.com/leighmcculloch/license"
+      }
     }
   ]
 }
