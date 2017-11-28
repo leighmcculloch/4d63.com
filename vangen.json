@@ -107,6 +107,13 @@
       "website": {
         "url": "https://github.com/leighmcculloch/license"
       }
+    },
+    {
+      "prefix": "tldr",
+      "url": "https://github.com/leighmcculloch/tldr",
+      "website": {
+        "url": "https://github.com/leighmcculloch/tldr"
+      }
     }
   ]
 }
