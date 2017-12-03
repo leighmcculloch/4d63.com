@@ -5,6 +5,7 @@
     {
       "prefix": "vangen",
       "url": "https://github.com/leighmcculloch/vangen",
+      "main": true,
       "website": {
         "url": "https://github.com/leighmcculloch/vangen"
       }
@@ -25,6 +26,7 @@
         "lib/runes"
       ],
       "url": "https://github.com/leighmcculloch/randstr",
+      "main": true,
       "website": {
         "url": "https://github.com/leighmcculloch/randstr"
       }
@@ -44,6 +46,7 @@
         "lib/sshcryptdata"
       ],
       "url": "https://github.com/leighmcculloch/sshcrypt",
+      "main": true,
       "website": {
         "url": "https://github.com/leighmcculloch/sshcrypt"
       }
@@ -78,6 +81,7 @@
     {
       "prefix": "makedesc",
       "url": "https://github.com/leighmcculloch/makedesc",
+      "main": true,
       "website": {
         "url": "https://github.com/leighmcculloch/makedesc"
       }
@@ -93,6 +97,7 @@
     {
       "prefix": "embedfiles",
       "url": "https://github.com/leighmcculloch/embedfiles",
+      "main": true,
       "website": {
         "url": "https://github.com/leighmcculloch/embedfiles"
       }
@@ -104,6 +109,7 @@
     {
       "prefix": "license",
       "url": "https://github.com/leighmcculloch/license",
+      "main": true,
       "website": {
         "url": "https://github.com/leighmcculloch/license"
       }
@@ -111,6 +117,7 @@
     {
       "prefix": "tldr",
       "url": "https://github.com/leighmcculloch/tldr",
+      "main": true,
       "website": {
         "url": "https://github.com/leighmcculloch/tldr"
       }
