@@ -121,6 +121,22 @@
       "website": {
         "url": "https://github.com/leighmcculloch/tldr"
       }
+    },
+    {
+      "prefix": "clippercard",
+      "subs": [
+        "apps/cmd/clippercardcsv",
+        "apps/web/clippercardcsv",
+        "pkgs/transactionhistory",
+        "pkgs/transactionhistory/pdf",
+        "pkgs/transactionhistory/filters",
+        "pkgs/transactionhistory/csv"
+      ],
+      "url": "https://github.com/leighmcculloch/clippercard",
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/clippercard"
+      }
     }
   ]
 }
