@@ -137,6 +137,13 @@
       "website": {
         "url": "https://github.com/leighmcculloch/clippercard"
       }
+    },
+    {
+      "prefix": "biblepassageapi",
+      "url": "https://github.com/leighmcculloch/go-biblepassageapi",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-biblepassageapi"
+      }
     }
   ]
 }
