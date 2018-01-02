@@ -6,7 +6,7 @@ generate: clean
 clean:
 	rm -fR vangen/
 
-deploy: push-gcs cdn
+deploy: push-gcs
 
 push-gcs:
 	gsutil -m cp -a public-read -r vangen/* gs://4d63.com
