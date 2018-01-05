@@ -144,6 +144,13 @@
       "website": {
         "url": "https://github.com/leighmcculloch/go-biblepassageapi"
       }
+    },
+    {
+      "prefix": "youtubelength",
+      "url": "https://github.com/leighmcculloch/go-youtubelength",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-youtubelength"
+      }
     }
   ]
 }
