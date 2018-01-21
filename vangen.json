@@ -151,6 +151,17 @@
       "website": {
         "url": "https://github.com/leighmcculloch/go-youtubelength"
       }
+    },
+    {
+      "prefix": "google-cloud-appengine-datastore-replicator",
+      "subs": [
+        "example",
+        "service"
+      ],
+      "url": "https://github.com/leighmcculloch/google-cloud-appengine-datastore-replicator",
+      "website": {
+        "url": "https://github.com/leighmcculloch/google-cloud-appengine-datastore-replicator"
+      }
     }
   ]
 }
