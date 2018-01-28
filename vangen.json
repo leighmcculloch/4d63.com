@@ -162,6 +162,13 @@
       "website": {
         "url": "https://github.com/leighmcculloch/google-cloud-appengine-datastore-replicator"
       }
+    },
+    {
+      "prefix": "compactwhitespace",
+      "url": "https://github.com/leighmcculloch/go-compactwhitespace",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-compactwhitespace"
+      }
     }
   ]
 }
