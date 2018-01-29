@@ -164,10 +164,10 @@
       }
     },
     {
-      "prefix": "compactwhitespace",
-      "url": "https://github.com/leighmcculloch/go-compactwhitespace",
+      "prefix": "collapsewhitespace",
+      "url": "https://github.com/leighmcculloch/go-collapsewhitespace",
       "website": {
-        "url": "https://github.com/leighmcculloch/go-compactwhitespace"
+        "url": "https://github.com/leighmcculloch/go-collapsewhitespace"
       }
     }
   ]
