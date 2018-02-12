@@ -169,6 +169,13 @@
       "website": {
         "url": "https://github.com/leighmcculloch/go-collapsewhitespace"
       }
+    },
+    {
+      "prefix": "biblestats",
+      "url": "https://github.com/leighmcculloch/go-biblestats",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-biblestats"
+      }
     }
   ]
 }
