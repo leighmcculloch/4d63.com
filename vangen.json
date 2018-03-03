@@ -176,6 +176,13 @@
       "website": {
         "url": "https://github.com/leighmcculloch/go-biblestats"
       }
+    },
+    {
+      "prefix": "tz",
+      "url": "https://github.com/leighmcculloch/go-tz",
+      "website": {
+        "url": "https://github.com/leighmcculloch/go-tz"
+      }
     }
   ]
 }
