@@ -140,17 +140,11 @@
     },
     {
       "prefix": "biblepassageapi",
-      "url": "https://github.com/leighmcculloch/go-biblepassageapi",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-biblepassageapi"
-      }
+      "url": "https://github.com/leighmcculloch/go-biblepassageapi"
     },
     {
       "prefix": "youtubelength",
-      "url": "https://github.com/leighmcculloch/go-youtubelength",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-youtubelength"
-      }
+      "url": "https://github.com/leighmcculloch/go-youtubelength"
     },
     {
       "prefix": "google-cloud-appengine-datastore-replicator",
@@ -165,24 +159,15 @@
     },
     {
       "prefix": "collapsewhitespace",
-      "url": "https://github.com/leighmcculloch/go-collapsewhitespace",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-collapsewhitespace"
-      }
+      "url": "https://github.com/leighmcculloch/go-collapsewhitespace"
     },
     {
       "prefix": "biblestats",
-      "url": "https://github.com/leighmcculloch/go-biblestats",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-biblestats"
-      }
+      "url": "https://github.com/leighmcculloch/go-biblestats"
     },
     {
       "prefix": "tz",
-      "url": "https://github.com/leighmcculloch/go-tz",
-      "website": {
-        "url": "https://github.com/leighmcculloch/go-tz"
-      }
+      "url": "https://github.com/leighmcculloch/go-tz"
     }
   ]
 }
