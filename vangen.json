@@ -168,6 +168,14 @@
     {
       "prefix": "tz",
       "url": "https://github.com/leighmcculloch/go-tz"
+    },
+    {
+      "prefix": "slacksearch",
+      "url": "https://github.com/leighmcculloch/slacksearch",
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/slacksearch"
+      }
     }
   ]
 }
