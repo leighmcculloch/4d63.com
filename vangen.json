@@ -184,6 +184,14 @@
       "website": {
         "url": "https://github.com/leighmcculloch/gochecknoglobals"
       }
+    },
+    {
+      "prefix": "gochecknoinits",
+      "url": "https://github.com/leighmcculloch/gochecknoinits",
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/gochecknoinits"
+      }
     }
   ]
 }
