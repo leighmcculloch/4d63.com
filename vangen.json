@@ -176,6 +176,14 @@
       "website": {
         "url": "https://github.com/leighmcculloch/slacksearch"
       }
+    },
+    {
+      "prefix": "gochecknoglobals",
+      "url": "https://github.com/leighmcculloch/gochecknoglobals",
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/gochecknoglobals"
+      }
     }
   ]
 }
