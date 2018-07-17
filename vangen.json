@@ -192,6 +192,14 @@
       "website": {
         "url": "https://github.com/leighmcculloch/gochecknoinits"
       }
+    },
+    {
+      "prefix": "githubcloneall",
+      "url": "https://github.com/leighmcculloch/githubcloneall",
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/githubcloneall"
+      }
     }
   ]
 }
