@@ -200,6 +200,14 @@
       "website": {
         "url": "https://github.com/leighmcculloch/githubcloneall"
       }
+    },
+    {
+      "prefix": "csv",
+      "url": "https://github.com/leighmcculloch/csv",
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/csv"
+      }
     }
   ]
 }
