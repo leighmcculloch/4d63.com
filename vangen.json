@@ -208,6 +208,10 @@
       "website": {
         "url": "https://github.com/leighmcculloch/csv"
       }
+    },
+    {
+      "prefix": "expect",
+      "url": "https://github.com/leighmcculloch/go-expect"
     }
   ]
 }
