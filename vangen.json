@@ -212,6 +212,14 @@
     {
       "prefix": "expect",
       "url": "https://github.com/leighmcculloch/go-expect"
+    },
+    {
+      "prefix": "gal",
+      "url": "https://github.com/leighmcculloch/gal",
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/gal"
+      }
     }
   ]
 }
