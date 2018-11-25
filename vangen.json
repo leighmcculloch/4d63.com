@@ -214,11 +214,11 @@
       "url": "https://github.com/leighmcculloch/go-expect"
     },
     {
-      "prefix": "gal",
-      "url": "https://github.com/leighmcculloch/gal",
+      "prefix": "gs",
+      "url": "https://github.com/leighmcculloch/gs",
       "main": true,
       "website": {
-        "url": "https://github.com/leighmcculloch/gal"
+        "url": "https://github.com/leighmcculloch/gs"
       }
     }
   ]
