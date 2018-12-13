@@ -210,8 +210,8 @@
       }
     },
     {
-      "prefix": "expect",
-      "url": "https://github.com/leighmcculloch/go-expect"
+      "prefix": "want",
+      "url": "https://github.com/leighmcculloch/go-want"
     },
     {
       "prefix": "gs",
