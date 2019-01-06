@@ -1,23 +1,20 @@
-export CLOUDFLARE_ZONE = b4d27d8decb687eb19b99c74c15ff7b9
-
-generate: clean
-	vangen
+deploy: build push
 
 clean:
-	rm -fR vangen/
+	rm -fR build/
 
-deploy: push-gcs
+build: clean .bin/vangen
+	.bin/vangen -out build
 
-push-gcs:
-	gsutil -m cp -a public-read -r vangen/* gs://4d63.com
-	gsutil web set -m index.html -e 404.txt gs://4d63.com
+push: .bin/node_modules/.bin/firebase
+	[ ! -t 0 ] || .bin/node_modules/.bin/firebase login --no-localhost
+	.bin/node_modules/.bin/firebase deploy
 
-cdn:
-	curl -X DELETE "https://api.cloudflare.com/client/v4/zones/$(CLOUDFLARE_ZONE)/purge_cache" \
-		-H "X-Auth-Email: $(CLOUDFLARE_EMAIL)" \
-		-H "X-Auth-Key: $(CLOUDFLARE_CLIENT_API_KEY)" \
-		-H "Content-Type: application/json" \
-		--data '{"purge_everything":true}'
+.bin:
+	mkdir .bin
 
-setup:
-	go get -u 4d63.com/vangen
+.bin/vangen:
+	GOBIN=$$PWD/.bin go get -u 4d63.com/vangen
+
+.bin/node_modules/.bin/firebase: .bin
+	yarn --no-lockfile --modules-folder=.bin/node_modules add firebase-tools

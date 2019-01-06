@@ -1,0 +1,5 @@
+steps:
+- name: 'golang'
+  args: ['make', 'build']
+- name: 'node:10.15.0'
+  args: ['make', 'push']
