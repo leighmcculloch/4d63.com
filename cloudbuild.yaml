@@ -1,5 +1,5 @@
 steps:
-- name: 'golang'
-  args: ['make', 'build']
-- name: 'node:10.15.0'
-  args: ['make', 'push']
+- name: 'gcr.io/$PROJECT_ID/vangen'
+  args: ['-out=build']
+- name: 'gcr.io/$PROJECT_ID/firebase'
+  args: ['deploy']
