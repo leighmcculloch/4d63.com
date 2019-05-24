@@ -214,11 +214,11 @@
       "url": "https://github.com/leighmcculloch/go-want"
     },
     {
-      "prefix": "gs",
-      "url": "https://github.com/leighmcculloch/gs",
+      "prefix": "gitallstatus",
+      "url": "https://github.com/leighmcculloch/gitallstatus",
       "main": true,
       "website": {
-        "url": "https://github.com/leighmcculloch/gs"
+        "url": "https://github.com/leighmcculloch/gitallstatus"
       }
     },
     {
