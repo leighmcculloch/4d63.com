@@ -220,6 +220,14 @@
       "website": {
         "url": "https://github.com/leighmcculloch/gs"
       }
+    },
+    {
+      "prefix": "gocheckregex",
+      "url": "https://github.com/leighmcculloch/gocheckregex",
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/gocheckregex"
+      }
     }
   ]
 }
