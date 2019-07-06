@@ -228,6 +228,10 @@
       "website": {
         "url": "https://github.com/leighmcculloch/gocheckregex"
       }
+    },
+    {
+      "prefix": "recursiveprint",
+      "url": "https://github.com/leighmcculloch/go-recursiveprint"
     }
   ]
 }
