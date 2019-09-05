@@ -232,6 +232,10 @@
     {
       "prefix": "recursiveprint",
       "url": "https://github.com/leighmcculloch/go-recursiveprint"
+    },
+    {
+      "prefix": "testparallel",
+      "url": "https://github.com/leighmcculloch/go-testparallel"
     }
   ]
 }
