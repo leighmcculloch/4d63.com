@@ -236,6 +236,10 @@
     {
       "prefix": "testparallel",
       "url": "https://github.com/leighmcculloch/go-testparallel"
+    },
+    {
+      "prefix": "testcli",
+      "url": "https://github.com/leighmcculloch/go-testcli"
     }
   ]
 }
