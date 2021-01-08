@@ -240,6 +240,14 @@
     {
       "prefix": "testcli",
       "url": "https://github.com/leighmcculloch/go-testcli"
+    },
+    {
+      "prefix": "serve",
+      "url": "https://github.com/leighmcculloch/serve",
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/serve"
+      }
     }
   ]
 }
