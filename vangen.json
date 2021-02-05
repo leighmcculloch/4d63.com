@@ -180,6 +180,9 @@
     {
       "prefix": "gochecknoglobals",
       "url": "https://github.com/leighmcculloch/gochecknoglobals",
+      "subs": [
+        "checknoglobals"
+      ],
       "main": true,
       "website": {
         "url": "https://github.com/leighmcculloch/gochecknoglobals"
