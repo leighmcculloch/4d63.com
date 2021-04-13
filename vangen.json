@@ -251,6 +251,14 @@
       "website": {
         "url": "https://github.com/leighmcculloch/serve"
       }
+    },
+    {
+      "prefix": "dockertcp",
+      "url": "https://github.com/leighmcculloch/dockertcp",
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/dockertcp"
+      }
     }
   ]
 }
