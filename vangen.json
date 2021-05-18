@@ -259,6 +259,10 @@
       "website": {
         "url": "https://github.com/leighmcculloch/dockertcp"
       }
+    },
+    {
+      "prefix": "fmt",
+      "url": "https://github.com/leighmcculloch/go-fmt"
     }
   ]
 }
