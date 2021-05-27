@@ -217,6 +217,10 @@
       "url": "https://github.com/leighmcculloch/go-want"
     },
     {
+      "prefix": "test",
+      "url": "https://github.com/leighmcculloch/go-test"
+    },
+    {
       "prefix": "gas",
       "url": "https://github.com/leighmcculloch/gas",
       "main": true,
