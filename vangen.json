@@ -257,16 +257,16 @@
       }
     },
     {
-      "prefix": "dockertcp",
-      "url": "https://github.com/leighmcculloch/dockertcp",
-      "main": true,
-      "website": {
-        "url": "https://github.com/leighmcculloch/dockertcp"
-      }
-    },
-    {
       "prefix": "fmt",
       "url": "https://github.com/leighmcculloch/go-fmt"
+    },
+    {
+      "prefix": "wait",
+      "url": "https://github.com/leighmcculloch/wait",
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/wait"
+      }
     }
   ]
 }
