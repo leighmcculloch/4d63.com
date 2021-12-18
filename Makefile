@@ -4,8 +4,4 @@ clean:
 	rm -fR build/
 
 build: clean
-	vangen -out=build
-
-push:
-	firebase login --no-localhost
-	firebase deploy
+	go run 4d63.com/vangen@latest -out=build

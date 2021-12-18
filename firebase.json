@@ -1,9 +1,0 @@
-{
-  "hosting": {
-    "target": "4d63-com",
-    "public": "build",
-    "ignore": [
-      "**/.*"
-    ]
-  }
-}
