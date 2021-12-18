@@ -261,11 +261,11 @@
       "url": "https://github.com/leighmcculloch/go-fmt"
     },
     {
-      "prefix": "wait",
-      "url": "https://github.com/leighmcculloch/wait",
+      "prefix": "tcpwait",
+      "url": "https://github.com/leighmcculloch/tcpwait",
       "main": true,
       "website": {
-        "url": "https://github.com/leighmcculloch/wait"
+        "url": "https://github.com/leighmcculloch/tcpwait"
       }
     }
   ]
