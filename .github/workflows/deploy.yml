@@ -11,10 +11,9 @@ jobs:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@v3
-    - run: go run 4d63.com/vangen@latest -out=build
-    - uses: actions/upload-artifact@v3
-      with:
-        path: ./build
+    - run: go run 4d63.com/vangen@latest -out=_site
+    - name: Upload artifact
+      uses: actions/upload-pages-artifact@v1
 
   deploy:
     needs: build
@@ -26,4 +25,5 @@ jobs:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
     steps:
+    - uses: actions/configure-pages@v2
     - uses: actions/deploy-pages@v1
