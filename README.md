@@ -4,4 +4,4 @@ A vanity import path for go packages by [Leigh McCulloch](https://leighmcculloch
 
 ## Hosting
 
-Vanity endpoints are hosted by Firebase.
+Vanity endpoints are hosted by GitHub Pages.
