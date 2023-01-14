@@ -267,6 +267,17 @@
       "website": {
         "url": "https://github.com/leighmcculloch/tcpwait"
       }
+    },
+    {
+      "prefix": "gocheckcompilerdirectives",
+      "url": "https://github.com/leighmcculloch/gocheckcompilerdirectives",
+      "subs": [
+        "checkcompilerdirectives"
+      ],
+      "main": true,
+      "website": {
+        "url": "https://github.com/leighmcculloch/gocheckcompilerdirectives"
+      }
     }
   ]
 }
